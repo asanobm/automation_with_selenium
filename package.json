@@ -1,0 +1,16 @@
+{
+  "name": "automation_with_selenium",
+  "version": "1.0.0",
+  "description": "automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kim_bumin@fourglobe.co.jp",
+  "license": "MIT",
+  "dependencies": {
+    "nodejs": "^0.0.0",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^4.0.0-rc-1"
+  }
+}
